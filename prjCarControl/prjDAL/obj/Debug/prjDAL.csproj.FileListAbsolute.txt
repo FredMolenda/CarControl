@@ -1,0 +1,145 @@
+E:\TCC\prjControlCar\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\Lucas Passos\Desktop\prjControlCar\prjDAL\obj\Debug\prjDAL.pdb
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.dll
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.pdb
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.dll
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.dll
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.pdb
+E:\TCC\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.pdb
+E:\TCC\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+E:\TCC\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.dll
+E:\TCC\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar1.0\prjDAL\obj\Debug\prjDAL.pdb
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDAL.dll
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDAL.pdb
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDIL.dll
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDTO.dll
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDIL.pdb
+E:\TCC\prjControlCar2.0\prjDAL\bin\Debug\prjDTO.pdb
+E:\TCC\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+E:\TCC\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.dll
+E:\TCC\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar2.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar3.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar4.0\prjDAL\obj\Debug\prjDAL.pdb
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDAL.dll
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDAL.pdb
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDIL.dll
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDTO.dll
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDIL.pdb
+E:\TCC\prjControlCar5.0\prjDAL\bin\Debug\prjDTO.pdb
+E:\TCC\prjControlCar5.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+E:\TCC\prjControlCar5.0\prjDAL\obj\Debug\prjDAL.dll
+E:\TCC\prjControlCar5.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.pdb
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDAL.dll
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDAL.pdb
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDIL.dll
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDTO.dll
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDIL.pdb
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\bin\Debug\prjDTO.pdb
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.dll
+E:\SENAI\TCC\prjControlCar6.0\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar6.0 Layout\prjDAL\obj\Debug\prjDAL.pdb
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDAL.dll
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDAL.pdb
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDIL.dll
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDTO.dll
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDIL.pdb
+E:\TCC\prjControlCar6.1 Layout\prjDAL\bin\Debug\prjDTO.pdb
+E:\TCC\prjControlCar6.1 Layout\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+E:\TCC\prjControlCar6.1 Layout\prjDAL\obj\Debug\prjDAL.dll
+E:\TCC\prjControlCar6.1 Layout\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar6.2 Layout\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\alfre\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDAL.pdb
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDIL.dll
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDTO.dll
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDIL.pdb
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\bin\Debug\prjDTO.pdb
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.dll
+C:\Users\Aluno\Desktop\prjControlCar Layout\prjDAL\obj\Debug\prjDAL.pdb
